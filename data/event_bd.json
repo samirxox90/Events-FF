@@ -55,13 +55,6 @@
   "events": {
     "items": [
       {
-        "Title": "FF x Choppy Cuts PV",
-        "Start": "1769551200",
-        "End": "1769637599",
-        "Link": "https://youtu.be/Kin_rE6xLrM",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ChoppyCutsNewSplashBD_en.jpg"
-      },
-      {
         "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
         "Start": "1769810400",
         "End": "1769896799",
@@ -90,13 +83,6 @@
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TheHoneredOneNewSplashBD_en.jpg"
       },
       {
-        "Title": "Faded Wheel: MALEVOLENT SHRINE ARRIVAL ANIMATION**",
-        "Start": "1769551200",
-        "End": "1769637599",
-        "Link": "V2_chestId_19",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWMalevolentShrineSplashBD_en.jpg"
-      },
-      {
         "Title": "JJK Special Grade Truck",
         "Start": "1769810400",
         "End": "1769896799",
@@ -123,6 +109,13 @@
         "End": "1769781599",
         "Link": "https://youtube.com/live/CzKtpIZvkx0?feature=share",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RTG26GrandFinalSplashBD_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S38 PREMIUM PLUS*",
+        "Start": "1769896800",
+        "End": "1769983199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS38SplashBD_en.jpg"
       }
     ]
   }
