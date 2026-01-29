@@ -78,6 +78,13 @@
   "events": {
     "items": [
       {
+        "Title": "JJK26_CSOvertime",
+        "Start": "1769936400",
+        "End": "1769986799",
+        "Link": "V2_category_5_groupID_ 26012801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_JJK26_CSOvertime_en.jpg"
+      },
+      {
         "Title": "Sukuna Ring",
         "Start": "1769641200",
         "End": "1769727599",
