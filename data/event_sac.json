@@ -3,6 +3,19 @@
   "events": {
     "items": [
       {
+        "Title": "CS S35",
+        "Start": "1769914800",
+        "End": "1770001199",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/CS350102_1750x1070_es.png"
+      },
+      {
+        "Title": "BP S38",
+        "Start": "1769914800",
+        "End": "1770001199",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
         "Title": "PM FW Sukuna Arrival Animation + Lootbox",
         "Start": "1769569200",
         "End": "1769741999",
@@ -29,6 +42,13 @@
         "End": "1769828399",
         "Link": "V2_mallType_1_firstTab_1_storeid_710052003",
         "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHFu0130_1750x1070_es.png"
+      },
+      {
+        "Title": "Prime Store Rotation",
+        "Start": "1769914800",
+        "End": "1770001199",
+        "Link": "V2_mallType_1_firstTab_106",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHPri0201_880x520_es.png"
       },
       {
         "Title": "Yuji Emote + Backpack",
